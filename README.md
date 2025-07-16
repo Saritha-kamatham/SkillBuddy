@@ -40,10 +40,6 @@ Deployment
 
 📂 Project Structure bash Copy Edit SkillBuddy/ ├── client/ # React + Tailwind frontend ├── server/ # Node.js + Express backend ├── README.md # Project documentation
 
-Frontend will run on : https://lnkd.in/grSPVRXX
-
-backend on : https://lnkd.in/gik57Q56
-
 💡 What I Learned ✅ Structuring a full-stack MERN project from scratch ✅ Connecting frontend & backend via REST APIs ✅ Implementing JWT authentication with protected routes ✅ State management, routing, and reusable components in React ✅ Deploying on Vercel & Render ✅ Integrating AI (Gemini API) for real-time user interaction
 
 🔮 Future Improvements 🎨 Improve UI/UX & mobile responsiveness
